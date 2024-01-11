@@ -1,0 +1,3 @@
+
+
+[ES节点类型、选举过程及容灾机制-CSDN博客](https://blog.csdn.net/zcm036200/article/details/122897681?ops_request_misc=%7B%22request%5Fid%22%3A%22170496330016800197082557%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&request_id=170496330016800197082557&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-122897681-null-null.142^v99^pc_search_result_base8&utm_term=es 容灾&spm=1018.2226.3001.4187)
